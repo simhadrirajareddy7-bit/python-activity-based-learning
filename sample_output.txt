@@ -1,0 +1,18 @@
+Enter marks for student 1:
+  Subject 1: 70
+  Subject 2: 80
+  Subject 3: 90
+Enter marks for student 2:
+  Subject 1: 60
+  Subject 2: 70
+  Subject 3: 80
+Enter marks for student 3:
+  Subject 1: 90
+  Subject 2: 90
+  Subject 3: 90
+
+STUDENT RESULTS
+Student 1: Total = 240.00, Average = 80.00
+Student 2: Total = 210.00, Average = 70.00
+Student 3: Total = 270.00, Average = 90.00
+Highest total: Student 3 (270.00)

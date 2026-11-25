@@ -1,0 +1,9 @@
+Enter answer for question 1 (A/B/C/D or Enter to skip): A
+Enter answer for question 2 (A/B/C/D or Enter to skip): C
+Enter answer for question 3 (A/B/C/D or Enter to skip): B
+Enter answer for question 4 (A/B/C/D or Enter to skip): D
+Enter answer for question 5 (A/B/C/D or Enter to skip): A
+Correct answers: 5
+Incorrect answers: 0
+Unanswered questions: 0
+Final score: 5/5

@@ -1,0 +1,17 @@
+Enter your shopping budget: 1000
+Enter product 1 name: book
+Enter price: 200
+Enter quantity: 2
+Enter product 2 name: pen
+Enter price: 20
+Enter quantity: 5
+Enter product 3 name: bag
+Enter price: 300
+Enter quantity: 1
+
+SHOPPING BILL
+book: Rs. 400.00
+pen: Rs. 100.00
+bag: Rs. 300.00
+Total: Rs. 800.00
+Within budget. Remaining: Rs. 200.00

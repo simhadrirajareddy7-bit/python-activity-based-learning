@@ -1,0 +1,5 @@
+Enter exam 1 marks (0-100): 60
+Enter exam 2 marks (0-100): 70
+Enter exam 3 marks (0-100): 80
+Highest mark: 80.00
+Improvement: 20.00 marks

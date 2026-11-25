@@ -1,0 +1,10 @@
+Enter opening balance: 1000
+Enter number of transactions: 2
+Transaction 1 (D for deposit, W for withdrawal): D
+Enter amount: 500
+Deposit successful.
+Transaction 2 (D for deposit, W for withdrawal): W
+Enter amount: 200
+Withdrawal successful.
+Final balance: Rs. 1300.00
+Accepted transactions: 2

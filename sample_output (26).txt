@@ -1,0 +1,2 @@
+Enter a sample password to validate: Raja@123
+All sample password rules are satisfied.

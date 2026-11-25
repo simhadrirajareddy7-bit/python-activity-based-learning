@@ -1,0 +1,6 @@
+Enter total classes conducted: 80
+Enter classes attended: 50
+Enter target attendance percentage: 75
+Current attendance: 62.50%
+Minimum additional classes to attend: 40
+Attendance after attending them: 75.00%

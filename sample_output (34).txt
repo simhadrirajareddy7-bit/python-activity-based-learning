@@ -1,0 +1,4 @@
+Enter a sentence or paragraph: Python is easy and Python is useful
+Repeated words:
+python: 2 times
+is: 2 times
